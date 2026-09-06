@@ -1,0 +1,6 @@
+[package]
+name = "report"
+version = "0.0.9"
+entrypoint = "report.typ"
+authors = ["Andrew Voynov"]
+compiler = "0.14.0"

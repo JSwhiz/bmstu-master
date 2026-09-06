@@ -1,0 +1,21 @@
+# macOS and editors
+.DS_Store
+.idea/
+.vscode/
+
+# Separate repository: coursework for mlcourse.ai
+mlcourse/
+
+# Typst build artifacts and caches
+.typst/
+*.pdf
+
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# Local settings and data
+.env
+data/
